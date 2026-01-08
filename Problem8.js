@@ -1,3 +1,4 @@
+//Problem 8
 function capitalizeWords(str){
     let word = str.split(" ");
 
